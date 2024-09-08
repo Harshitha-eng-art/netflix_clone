@@ -10,3 +10,5 @@ export const connectDB = async () => {
 		process.exit(1); // 1 means there was an error, 0 means success
 	}
 };
+//zaZ44ZvkkQonC2id
+//mongodb+srv://harshithatu302003:<db_password>@cluster0.ch9ni.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
